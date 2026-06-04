@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1779998827273",
+    "fullName": "mri",
+    "email": "mri@gmail.com",
+    "password": "12341234",
+    "role": "patient",
+    "healthProfile": {
+      "weight": "80",
+      "height": "170",
+      "age": "30",
+      "gender": "male",
+      "medicalConditions": "none",
+      "goal": "muscle",
+      "calculations": {
+        "bmr": 1718,
+        "targetCalories": 2461,
+        "targetProteins": "160g"
+      }
+    },
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "1780077898507",
+    "fullName": "saw",
+    "email": "saw@gmail.com",
+    "password": "12345678",
+    "role": "patient",
+    "healthProfile": {
+      "weight": "60",
+      "height": "160",
+      "age": "24",
+      "gender": "male",
+      "medicalConditions": "none",
+      "goal": "muscle",
+      "calculations": {
+        "bmr": 1485,
+        "targetCalories": 2602,
+        "targetProteins": "120g"
+      }
+    },
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "admin_001",
+    "fullName": "Dr. Nutritionist",
+    "email": "admin@nutricoach.com",
+    "password": "nutricoach2026",
+    "role": "nutritionist",
+    "healthProfile": null,
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "1780611771217",
+    "fullName": "sisi",
+    "email": "sisi@gmail.com",
+    "password": "12341234",
+    "role": "patient",
+    "healthProfile": null,
+    "createdAt": "2026-06-04T22:22:51.217Z"
+  }
+]

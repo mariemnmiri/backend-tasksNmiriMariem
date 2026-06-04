@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1780609306993",
+    "patientEmail": "zahra@gmail.com",
+    "type": "appointment_confirmed",
+    "message": "✅ Your appointment on 2026-06-24 at 10:30 has been confirmed! The nutritionist will contact you soon.",
+    "read": true,
+    "createdAt": "2026-06-04T21:41:46.993Z"
+  },
+  {
+    "id": "1780609761977",
+    "patientEmail": "saw@gmail.com",
+    "type": "appointment_declined",
+    "message": "❌ Your appointment request for 2026-06-20 at 11:00 was not available. Please book a new appointment at a different time.",
+    "read": true,
+    "createdAt": "2026-06-04T21:49:21.977Z"
+  },
+  {
+    "id": "1780609764034",
+    "patientEmail": "saw@gmail.com",
+    "type": "appointment_declined",
+    "message": "❌ Your appointment request for 2026-06-18 at 15:30 was not available. Please book a new appointment at a different time.",
+    "read": true,
+    "createdAt": "2026-06-04T21:49:24.034Z"
+  },
+  {
+    "id": "1780609766240",
+    "patientEmail": "saw@gmail.com",
+    "type": "appointment_declined",
+    "message": "❌ Your appointment request for 2026-06-18 at 16:30 was not available. Please book a new appointment at a different time.",
+    "read": true,
+    "createdAt": "2026-06-04T21:49:26.240Z"
+  },
+  {
+    "id": "1780609768055",
+    "patientEmail": "saw@gmail.com",
+    "type": "appointment_declined",
+    "message": "❌ Your appointment request for 2026-06-18 at 17:00 was not available. Please book a new appointment at a different time.",
+    "read": true,
+    "createdAt": "2026-06-04T21:49:28.055Z"
+  },
+  {
+    "id": "1780609769796",
+    "patientEmail": "saw@gmail.com",
+    "type": "appointment_declined",
+    "message": "❌ Your appointment request for 2026-06-18 at 10:30 was not available. Please book a new appointment at a different time.",
+    "read": true,
+    "createdAt": "2026-06-04T21:49:29.796Z"
+  },
+  {
+    "id": "1780611278930",
+    "patientEmail": "toutou@gmail.com",
+    "type": "appointment_declined",
+    "message": "❌ Your appointment request for 2026-06-10 at 09:30 was not available. Please book a new appointment at a different time.",
+    "read": true,
+    "createdAt": "2026-06-04T22:14:38.930Z"
+  },
+  {
+    "id": "1780611390431",
+    "patientEmail": "saw@gmail.com",
+    "type": "appointment_confirmed",
+    "message": "✅ Your appointment on 2026-06-20 at 11:00 has been confirmed! The nutritionist will contact you soon.",
+    "read": true,
+    "createdAt": "2026-06-04T22:16:30.431Z"
+  }
+]
